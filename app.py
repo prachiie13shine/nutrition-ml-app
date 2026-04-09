@@ -16,7 +16,7 @@ st.write("Columns:", data.columns)
 
 # Create target column
 data['health_label'] = data['Calories'].apply(
-    lambda x: 'Healthy' if x < 400 else 'Unhealthy'
+    lambda x: 'Healthy' if x < 80 else 'Unhealthy'
 )
 
 # Features (MATCH EXACT NAMES)
