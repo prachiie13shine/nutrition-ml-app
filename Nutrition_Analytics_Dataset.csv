@@ -1,0 +1,352 @@
+Date,Meal_Type,Food_Item,Calories,Protein_g,Carbs_g,Fats_g,Sugar_g,Fiber_g,Health_Tag
+2025-01-01,Snack,Eggs,100,20,79,12,23,5,Unhealthy
+2025-01-01,Lunch,Chicken Curry,423,31,42,3,27,5,Healthy
+2025-01-01,Snack,Junk Food,101,26,53,28,26,10,Unhealthy
+2025-01-01,Lunch,Salad,323,4,55,8,20,9,Unhealthy
+2025-01-02,Snack,Milk,395,15,13,27,20,2,Unhealthy
+2025-01-02,Snack,Dal,507,9,51,15,16,4,Moderate
+2025-01-02,Snack,Fruit Bowl,81,7,58,5,21,13,Unhealthy
+2025-01-03,Lunch,Roti,281,37,18,32,15,8,Moderate
+2025-01-03,Dinner,Milk,375,22,57,25,25,9,Healthy
+2025-01-03,Breakfast,Rice,423,2,12,25,10,3,Healthy
+2025-01-04,Dinner,Rice,458,6,45,29,6,9,Moderate
+2025-01-04,Breakfast,Dal,486,25,41,23,26,3,Healthy
+2025-01-04,Dinner,Chicken Curry,541,4,5,6,25,7,Unhealthy
+2025-01-04,Lunch,Dal,472,16,19,27,9,12,Healthy
+2025-01-05,Dinner,Dal,320,33,8,31,4,7,Unhealthy
+2025-01-05,Breakfast,Fruit Bowl,239,8,63,23,27,2,Moderate
+2025-01-05,Breakfast,Milk,107,21,34,12,25,7,Healthy
+2025-01-05,Dinner,Rice,464,28,66,14,8,3,Unhealthy
+2025-01-06,Snack,Milk,397,38,55,25,14,11,Moderate
+2025-01-06,Snack,Eggs,312,13,43,3,2,1,Healthy
+2025-01-06,Breakfast,Eggs,160,3,6,29,21,7,Healthy
+2025-01-07,Breakfast,Salad,209,27,36,7,22,4,Unhealthy
+2025-01-07,Dinner,Eggs,202,18,42,25,4,4,Moderate
+2025-01-08,Lunch,Rice,280,7,7,21,27,11,Unhealthy
+2025-01-08,Lunch,Salad,590,20,24,33,6,4,Healthy
+2025-01-08,Breakfast,Eggs,417,2,15,29,24,9,Moderate
+2025-01-09,Dinner,Junk Food,342,17,64,3,0,14,Healthy
+2025-01-09,Breakfast,Dal,88,36,23,17,2,4,Moderate
+2025-01-09,Snack,Rice,499,39,29,30,17,14,Moderate
+2025-01-09,Lunch,Paneer,242,17,65,34,3,1,Moderate
+2025-01-10,Snack,Fruit Bowl,583,9,11,4,16,1,Unhealthy
+2025-01-10,Dinner,Paneer,454,23,34,9,26,11,Moderate
+2025-01-11,Lunch,Rice,363,34,73,20,3,3,Healthy
+2025-01-11,Snack,Rice,251,29,34,30,13,5,Moderate
+2025-01-12,Snack,Milk,116,25,50,32,2,12,Healthy
+2025-01-12,Snack,Chicken Curry,240,4,22,26,9,6,Moderate
+2025-01-12,Dinner,Eggs,367,23,27,3,26,10,Moderate
+2025-01-12,Lunch,Rice,183,34,13,30,9,7,Moderate
+2025-01-13,Lunch,Milk,487,14,64,8,24,4,Healthy
+2025-01-13,Snack,Rice,591,17,18,13,18,7,Unhealthy
+2025-01-13,Snack,Roti,130,26,62,23,25,10,Moderate
+2025-01-13,Breakfast,Fruit Bowl,133,38,12,6,6,4,Moderate
+2025-01-14,Snack,Fruit Bowl,429,36,59,17,12,2,Moderate
+2025-01-14,Lunch,Salad,199,20,62,27,4,10,Healthy
+2025-01-15,Dinner,Milk,137,2,38,33,29,6,Healthy
+2025-01-15,Snack,Chicken Curry,351,6,26,30,22,3,Moderate
+2025-01-15,Snack,Salad,165,30,73,31,13,14,Healthy
+2025-01-16,Lunch,Chicken Curry,368,31,27,11,21,5,Moderate
+2025-01-16,Snack,Junk Food,521,33,5,6,12,4,Unhealthy
+2025-01-16,Lunch,Rice,239,28,28,13,17,3,Healthy
+2025-01-17,Breakfast,Salad,506,38,16,4,0,1,Moderate
+2025-01-17,Dinner,Roti,332,36,12,30,25,10,Moderate
+2025-01-18,Lunch,Salad,275,12,33,26,20,13,Healthy
+2025-01-18,Snack,Junk Food,536,25,68,19,16,7,Unhealthy
+2025-01-18,Lunch,Chicken Curry,448,14,27,26,2,9,Moderate
+2025-01-19,Breakfast,Fruit Bowl,421,14,63,20,16,4,Healthy
+2025-01-19,Breakfast,Salad,155,10,75,29,13,4,Unhealthy
+2025-01-20,Dinner,Chicken Curry,148,36,16,26,19,11,Healthy
+2025-01-20,Snack,Chicken Curry,230,17,61,15,25,5,Unhealthy
+2025-01-20,Dinner,Roti,88,11,62,18,28,6,Unhealthy
+2025-01-21,Breakfast,Eggs,249,10,54,28,25,2,Healthy
+2025-01-21,Breakfast,Chicken Curry,501,20,12,2,21,4,Healthy
+2025-01-21,Dinner,Dal,296,5,40,7,27,3,Healthy
+2025-01-22,Dinner,Junk Food,118,4,49,14,17,12,Moderate
+2025-01-22,Lunch,Fruit Bowl,555,9,65,2,2,13,Moderate
+2025-01-22,Breakfast,Rice,488,34,42,7,25,12,Healthy
+2025-01-23,Breakfast,Chicken Curry,159,22,79,20,19,9,Moderate
+2025-01-23,Dinner,Milk,384,15,19,32,0,5,Moderate
+2025-01-24,Dinner,Dal,91,11,20,9,5,12,Healthy
+2025-01-24,Snack,Junk Food,427,37,12,29,27,5,Healthy
+2025-01-24,Snack,Paneer,224,10,37,21,12,12,Healthy
+2025-01-25,Lunch,Salad,332,7,73,26,1,10,Moderate
+2025-01-25,Lunch,Chicken Curry,198,34,69,19,14,1,Unhealthy
+2025-01-26,Lunch,Milk,540,34,5,22,15,7,Moderate
+2025-01-26,Snack,Rice,516,24,57,11,9,3,Healthy
+2025-01-27,Lunch,Milk,80,14,8,2,16,8,Moderate
+2025-01-27,Snack,Eggs,233,35,58,4,26,2,Healthy
+2025-01-28,Snack,Chicken Curry,480,24,18,3,10,3,Unhealthy
+2025-01-28,Lunch,Roti,385,35,34,16,26,3,Unhealthy
+2025-01-28,Lunch,Fruit Bowl,328,39,34,18,4,13,Moderate
+2025-01-29,Lunch,Rice,587,21,73,7,20,2,Healthy
+2025-01-29,Lunch,Salad,190,24,59,17,10,6,Healthy
+2025-01-30,Snack,Salad,172,33,54,20,20,5,Moderate
+2025-01-30,Snack,Junk Food,484,7,5,6,8,12,Moderate
+2025-01-30,Lunch,Roti,157,27,49,28,8,10,Healthy
+2025-01-30,Dinner,Milk,293,31,67,18,25,4,Healthy
+2025-01-31,Dinner,Fruit Bowl,382,23,18,27,27,7,Moderate
+2025-01-31,Snack,Roti,444,27,18,8,2,7,Moderate
+2025-02-01,Dinner,Roti,585,39,19,26,22,5,Moderate
+2025-02-01,Dinner,Milk,352,23,48,26,16,13,Healthy
+2025-02-01,Snack,Junk Food,146,19,38,9,7,1,Unhealthy
+2025-02-01,Lunch,Milk,597,27,68,7,4,9,Healthy
+2025-02-02,Lunch,Chicken Curry,582,5,79,31,23,7,Healthy
+2025-02-02,Dinner,Salad,322,32,44,25,5,2,Unhealthy
+2025-02-03,Lunch,Paneer,583,39,55,3,14,11,Moderate
+2025-02-03,Dinner,Chicken Curry,405,27,72,20,19,1,Healthy
+2025-02-03,Snack,Rice,169,15,68,12,3,13,Unhealthy
+2025-02-03,Dinner,Rice,89,6,27,11,11,2,Healthy
+2025-02-04,Snack,Rice,398,38,77,18,8,11,Unhealthy
+2025-02-04,Snack,Paneer,498,31,53,6,29,12,Moderate
+2025-02-04,Lunch,Chicken Curry,455,12,13,13,2,3,Healthy
+2025-02-05,Snack,Eggs,308,15,64,31,2,5,Healthy
+2025-02-05,Breakfast,Salad,458,15,30,5,24,13,Moderate
+2025-02-05,Breakfast,Roti,375,9,43,15,18,13,Moderate
+2025-02-06,Dinner,Rice,224,34,70,15,20,8,Unhealthy
+2025-02-06,Dinner,Salad,277,7,71,8,18,8,Moderate
+2025-02-07,Dinner,Rice,557,28,40,30,5,9,Healthy
+2025-02-07,Breakfast,Chicken Curry,490,34,72,23,1,10,Healthy
+2025-02-07,Dinner,Junk Food,197,39,17,32,14,4,Healthy
+2025-02-07,Snack,Fruit Bowl,94,30,12,6,28,4,Healthy
+2025-02-08,Dinner,Salad,371,27,47,28,4,4,Unhealthy
+2025-02-08,Lunch,Junk Food,213,9,27,27,13,11,Moderate
+2025-02-08,Breakfast,Eggs,289,26,64,13,11,4,Healthy
+2025-02-09,Snack,Junk Food,457,10,55,30,13,8,Healthy
+2025-02-09,Lunch,Dal,484,27,40,24,24,1,Unhealthy
+2025-02-10,Dinner,Salad,510,10,57,10,9,4,Healthy
+2025-02-10,Breakfast,Junk Food,323,26,79,3,6,2,Unhealthy
+2025-02-10,Lunch,Rice,258,25,29,8,19,6,Healthy
+2025-02-11,Breakfast,Paneer,235,22,53,8,16,4,Healthy
+2025-02-11,Breakfast,Fruit Bowl,421,29,67,8,0,13,Moderate
+2025-02-12,Dinner,Eggs,397,33,34,30,16,13,Healthy
+2025-02-12,Lunch,Eggs,98,19,5,15,18,2,Moderate
+2025-02-12,Lunch,Rice,193,31,42,5,0,8,Healthy
+2025-02-12,Dinner,Dal,537,20,38,34,22,7,Moderate
+2025-02-13,Breakfast,Eggs,392,4,63,9,21,9,Unhealthy
+2025-02-13,Breakfast,Salad,130,34,12,33,23,14,Moderate
+2025-02-13,Dinner,Fruit Bowl,579,38,58,22,13,7,Moderate
+2025-02-13,Dinner,Junk Food,230,22,23,20,3,13,Moderate
+2025-02-14,Breakfast,Chicken Curry,465,4,16,21,4,5,Moderate
+2025-02-14,Snack,Milk,305,36,28,18,9,14,Unhealthy
+2025-02-14,Lunch,Dal,207,33,18,10,7,2,Healthy
+2025-02-15,Dinner,Milk,357,5,30,30,12,2,Unhealthy
+2025-02-15,Breakfast,Paneer,225,22,46,18,4,9,Moderate
+2025-02-16,Snack,Dal,421,22,31,32,5,11,Moderate
+2025-02-16,Snack,Milk,534,11,49,18,25,5,Moderate
+2025-02-16,Lunch,Roti,442,2,55,27,28,5,Unhealthy
+2025-02-17,Snack,Fruit Bowl,192,36,58,25,21,6,Healthy
+2025-02-17,Snack,Rice,227,20,66,10,25,2,Healthy
+2025-02-17,Breakfast,Milk,375,18,5,26,28,11,Moderate
+2025-02-17,Breakfast,Dal,210,38,48,31,5,2,Unhealthy
+2025-02-18,Snack,Rice,96,11,61,13,29,8,Unhealthy
+2025-02-18,Snack,Chicken Curry,160,24,74,9,24,2,Healthy
+2025-02-19,Dinner,Junk Food,568,27,51,33,9,7,Healthy
+2025-02-19,Dinner,Junk Food,165,8,18,16,20,7,Healthy
+2025-02-19,Dinner,Eggs,577,24,43,19,26,10,Unhealthy
+2025-02-19,Breakfast,Eggs,267,35,7,27,22,7,Unhealthy
+2025-02-20,Snack,Rice,595,30,29,14,17,1,Healthy
+2025-02-20,Lunch,Roti,390,36,46,31,26,7,Healthy
+2025-02-20,Breakfast,Roti,495,33,43,30,29,1,Healthy
+2025-02-20,Lunch,Chicken Curry,351,11,34,26,6,4,Healthy
+2025-02-21,Lunch,Rice,82,15,34,5,17,14,Healthy
+2025-02-21,Breakfast,Rice,478,25,72,13,26,10,Healthy
+2025-02-22,Breakfast,Paneer,519,25,15,14,1,9,Unhealthy
+2025-02-22,Snack,Fruit Bowl,389,11,61,27,8,1,Moderate
+2025-02-23,Snack,Paneer,596,6,58,24,16,9,Unhealthy
+2025-02-23,Snack,Junk Food,569,36,54,19,29,1,Unhealthy
+2025-02-23,Snack,Salad,199,26,77,5,13,5,Moderate
+2025-02-23,Dinner,Milk,402,29,33,10,2,9,Moderate
+2025-02-24,Breakfast,Eggs,340,12,63,25,27,6,Unhealthy
+2025-02-24,Breakfast,Junk Food,533,38,64,14,27,5,Healthy
+2025-02-24,Breakfast,Roti,119,33,66,30,18,10,Unhealthy
+2025-02-25,Snack,Rice,341,25,23,17,7,12,Healthy
+2025-02-25,Dinner,Milk,442,26,57,28,5,12,Unhealthy
+2025-02-25,Breakfast,Junk Food,110,24,46,11,10,5,Moderate
+2025-02-26,Dinner,Roti,435,3,16,3,12,14,Unhealthy
+2025-02-26,Breakfast,Milk,96,32,64,25,12,3,Moderate
+2025-02-26,Dinner,Dal,312,33,67,29,27,14,Healthy
+2025-02-26,Breakfast,Paneer,275,21,72,28,16,12,Moderate
+2025-02-27,Lunch,Paneer,101,27,54,15,14,13,Unhealthy
+2025-02-27,Dinner,Fruit Bowl,460,13,11,30,10,1,Moderate
+2025-02-28,Dinner,Salad,538,24,30,30,3,1,Unhealthy
+2025-02-28,Breakfast,Milk,118,16,33,30,10,4,Moderate
+2025-02-28,Dinner,Fruit Bowl,101,12,31,4,16,14,Healthy
+2025-02-28,Breakfast,Chicken Curry,163,7,23,6,2,11,Healthy
+2025-03-01,Snack,Paneer,241,36,68,26,23,12,Moderate
+2025-03-01,Dinner,Eggs,139,26,21,30,20,8,Unhealthy
+2025-03-01,Dinner,Roti,278,4,68,25,27,10,Unhealthy
+2025-03-02,Dinner,Milk,285,8,21,21,3,9,Moderate
+2025-03-02,Snack,Milk,580,3,76,12,12,1,Healthy
+2025-03-02,Lunch,Roti,445,32,42,33,10,13,Healthy
+2025-03-03,Snack,Paneer,504,9,15,23,18,8,Healthy
+2025-03-03,Breakfast,Milk,125,33,58,23,27,4,Healthy
+2025-03-04,Snack,Roti,81,34,37,14,29,1,Healthy
+2025-03-04,Snack,Junk Food,182,3,42,27,13,10,Moderate
+2025-03-04,Dinner,Roti,185,12,65,4,26,6,Healthy
+2025-03-05,Breakfast,Dal,302,33,45,13,7,8,Moderate
+2025-03-05,Snack,Fruit Bowl,397,8,79,21,15,4,Moderate
+2025-03-05,Lunch,Paneer,489,4,45,15,10,2,Moderate
+2025-03-06,Snack,Milk,380,20,59,9,28,7,Healthy
+2025-03-06,Dinner,Salad,431,4,32,11,18,3,Healthy
+2025-03-06,Breakfast,Paneer,286,34,11,13,16,14,Healthy
+2025-03-06,Dinner,Junk Food,103,21,41,5,27,12,Moderate
+2025-03-07,Breakfast,Salad,499,35,70,16,1,4,Moderate
+2025-03-07,Dinner,Junk Food,450,13,7,19,7,5,Unhealthy
+2025-03-07,Breakfast,Salad,599,37,46,15,13,2,Unhealthy
+2025-03-08,Breakfast,Paneer,397,15,6,7,16,11,Healthy
+2025-03-08,Breakfast,Roti,242,38,9,2,7,12,Healthy
+2025-03-09,Dinner,Junk Food,349,17,78,30,9,12,Moderate
+2025-03-09,Breakfast,Rice,212,21,12,13,0,9,Moderate
+2025-03-09,Snack,Milk,186,38,51,13,4,1,Healthy
+2025-03-09,Snack,Eggs,235,16,10,21,17,14,Moderate
+2025-03-10,Dinner,Chicken Curry,99,27,33,2,22,3,Moderate
+2025-03-10,Breakfast,Chicken Curry,138,6,37,15,11,10,Healthy
+2025-03-11,Snack,Roti,296,30,61,32,23,11,Moderate
+2025-03-11,Dinner,Paneer,230,17,54,9,17,5,Healthy
+2025-03-11,Dinner,Eggs,431,39,9,23,14,2,Healthy
+2025-03-12,Dinner,Junk Food,506,11,34,19,16,10,Unhealthy
+2025-03-12,Snack,Rice,424,5,37,2,18,14,Healthy
+2025-03-12,Snack,Chicken Curry,440,27,66,29,1,2,Moderate
+2025-03-12,Dinner,Milk,240,26,52,14,8,5,Healthy
+2025-03-13,Breakfast,Fruit Bowl,460,39,8,20,5,2,Moderate
+2025-03-13,Breakfast,Milk,358,20,79,2,23,14,Moderate
+2025-03-13,Dinner,Milk,144,13,75,16,20,3,Healthy
+2025-03-13,Breakfast,Rice,384,33,39,27,10,3,Moderate
+2025-03-14,Lunch,Roti,82,22,30,9,15,2,Moderate
+2025-03-14,Snack,Chicken Curry,300,27,29,13,4,2,Healthy
+2025-03-14,Dinner,Fruit Bowl,122,24,74,22,22,11,Unhealthy
+2025-03-15,Breakfast,Milk,130,16,72,22,12,6,Unhealthy
+2025-03-15,Lunch,Fruit Bowl,452,28,33,29,2,8,Moderate
+2025-03-15,Snack,Roti,81,14,8,27,24,14,Unhealthy
+2025-03-15,Dinner,Junk Food,118,14,35,8,23,1,Moderate
+2025-03-16,Lunch,Eggs,115,21,72,8,21,1,Healthy
+2025-03-16,Lunch,Dal,197,22,13,27,8,10,Moderate
+2025-03-17,Breakfast,Junk Food,231,17,53,27,26,5,Moderate
+2025-03-17,Snack,Salad,139,11,22,20,3,10,Healthy
+2025-03-18,Lunch,Chicken Curry,562,35,37,22,16,6,Healthy
+2025-03-18,Dinner,Salad,534,33,15,11,8,14,Healthy
+2025-03-18,Breakfast,Milk,333,26,6,8,20,2,Unhealthy
+2025-03-18,Lunch,Paneer,246,12,28,20,3,10,Moderate
+2025-03-19,Snack,Dal,115,38,40,4,8,8,Healthy
+2025-03-19,Dinner,Paneer,504,5,17,3,27,5,Unhealthy
+2025-03-19,Snack,Chicken Curry,309,9,54,4,21,12,Healthy
+2025-03-20,Dinner,Paneer,209,24,48,3,5,1,Unhealthy
+2025-03-20,Lunch,Dal,195,9,26,6,12,13,Unhealthy
+2025-03-20,Dinner,Milk,390,17,66,31,24,7,Healthy
+2025-03-21,Snack,Dal,427,6,69,31,20,4,Moderate
+2025-03-21,Lunch,Roti,535,33,37,17,11,6,Moderate
+2025-03-21,Breakfast,Fruit Bowl,560,24,70,22,1,11,Healthy
+2025-03-21,Breakfast,Rice,259,24,30,5,17,7,Moderate
+2025-03-22,Lunch,Paneer,395,38,16,19,12,3,Moderate
+2025-03-22,Snack,Junk Food,541,7,71,17,6,4,Moderate
+2025-03-22,Breakfast,Chicken Curry,209,36,24,19,9,9,Moderate
+2025-03-22,Breakfast,Paneer,368,37,18,2,13,6,Moderate
+2025-03-23,Snack,Salad,562,7,29,14,20,2,Healthy
+2025-03-23,Lunch,Fruit Bowl,158,5,49,13,27,13,Unhealthy
+2025-03-24,Snack,Roti,526,7,36,30,10,14,Moderate
+2025-03-24,Snack,Dal,546,32,9,20,1,10,Healthy
+2025-03-24,Lunch,Roti,332,32,60,16,8,7,Unhealthy
+2025-03-25,Dinner,Chicken Curry,408,29,66,8,15,12,Healthy
+2025-03-25,Snack,Fruit Bowl,180,30,56,8,26,12,Moderate
+2025-03-26,Dinner,Chicken Curry,589,3,66,28,20,6,Moderate
+2025-03-26,Dinner,Chicken Curry,550,6,69,14,20,10,Moderate
+2025-03-26,Breakfast,Chicken Curry,417,38,49,33,3,1,Unhealthy
+2025-03-27,Snack,Chicken Curry,387,27,72,19,7,3,Healthy
+2025-03-27,Breakfast,Fruit Bowl,501,22,46,14,16,9,Healthy
+2025-03-28,Breakfast,Rice,209,30,14,22,27,11,Unhealthy
+2025-03-28,Lunch,Eggs,279,16,21,24,23,13,Unhealthy
+2025-03-29,Snack,Rice,166,38,12,14,7,9,Unhealthy
+2025-03-29,Dinner,Rice,514,25,28,18,4,4,Healthy
+2025-03-30,Dinner,Fruit Bowl,515,16,11,29,18,11,Moderate
+2025-03-30,Breakfast,Chicken Curry,429,33,12,11,5,12,Healthy
+2025-03-30,Dinner,Eggs,439,26,77,3,14,2,Unhealthy
+2025-03-31,Snack,Fruit Bowl,248,26,66,11,20,4,Unhealthy
+2025-03-31,Snack,Roti,453,14,57,33,15,12,Moderate
+2025-04-01,Lunch,Rice,481,10,29,15,27,10,Healthy
+2025-04-01,Lunch,Paneer,493,21,48,33,18,14,Healthy
+2025-04-01,Snack,Chicken Curry,201,33,43,13,8,2,Healthy
+2025-04-01,Breakfast,Chicken Curry,381,8,27,33,10,6,Moderate
+2025-04-02,Breakfast,Paneer,545,3,33,22,14,4,Unhealthy
+2025-04-02,Lunch,Salad,486,25,48,14,21,11,Healthy
+2025-04-02,Breakfast,Rice,594,20,27,30,29,7,Unhealthy
+2025-04-02,Breakfast,Chicken Curry,190,9,62,17,7,1,Healthy
+2025-04-03,Breakfast,Fruit Bowl,183,36,68,26,9,5,Moderate
+2025-04-03,Dinner,Roti,191,14,13,23,9,10,Moderate
+2025-04-03,Lunch,Rice,93,35,57,21,10,3,Unhealthy
+2025-04-03,Dinner,Paneer,290,38,62,5,14,13,Moderate
+2025-04-04,Dinner,Junk Food,548,22,78,5,27,9,Healthy
+2025-04-04,Snack,Rice,198,8,8,30,13,3,Healthy
+2025-04-04,Snack,Junk Food,134,5,28,31,17,3,Unhealthy
+2025-04-05,Breakfast,Salad,485,25,34,32,3,3,Healthy
+2025-04-05,Snack,Dal,192,34,22,29,26,11,Healthy
+2025-04-05,Snack,Paneer,240,18,74,5,19,11,Unhealthy
+2025-04-05,Lunch,Dal,216,27,20,6,24,4,Healthy
+2025-04-06,Lunch,Salad,333,7,55,20,9,3,Moderate
+2025-04-06,Lunch,Salad,428,38,53,22,9,5,Moderate
+2025-04-06,Lunch,Fruit Bowl,374,36,5,25,24,4,Moderate
+2025-04-07,Lunch,Milk,487,31,11,29,13,8,Moderate
+2025-04-07,Snack,Paneer,284,7,48,10,12,4,Unhealthy
+2025-04-08,Lunch,Milk,275,34,11,7,14,2,Unhealthy
+2025-04-08,Snack,Eggs,278,22,46,27,11,8,Moderate
+2025-04-08,Breakfast,Chicken Curry,393,22,73,4,22,10,Healthy
+2025-04-09,Dinner,Salad,463,13,65,34,17,5,Unhealthy
+2025-04-09,Lunch,Milk,406,23,37,18,23,13,Healthy
+2025-04-10,Snack,Junk Food,122,23,53,18,1,6,Moderate
+2025-04-10,Lunch,Roti,596,3,26,3,9,2,Unhealthy
+2025-04-10,Breakfast,Dal,165,13,44,11,2,3,Unhealthy
+2025-04-11,Snack,Dal,356,21,30,5,13,4,Moderate
+2025-04-11,Dinner,Eggs,292,16,18,28,28,9,Moderate
+2025-04-12,Breakfast,Roti,333,4,76,34,9,4,Unhealthy
+2025-04-12,Lunch,Dal,515,24,54,20,4,3,Unhealthy
+2025-04-12,Snack,Junk Food,87,25,45,22,7,7,Healthy
+2025-04-13,Dinner,Eggs,289,21,74,13,1,7,Unhealthy
+2025-04-13,Breakfast,Salad,362,39,37,29,0,7,Healthy
+2025-04-13,Snack,Chicken Curry,339,31,74,20,8,12,Unhealthy
+2025-04-13,Lunch,Dal,95,2,67,22,29,13,Moderate
+2025-04-14,Lunch,Dal,210,34,72,26,19,2,Moderate
+2025-04-14,Lunch,Chicken Curry,306,29,13,7,18,12,Healthy
+2025-04-14,Dinner,Roti,443,10,7,13,27,14,Moderate
+2025-04-15,Snack,Eggs,297,34,39,19,25,11,Healthy
+2025-04-15,Dinner,Paneer,352,6,15,31,14,11,Unhealthy
+2025-04-16,Snack,Roti,145,36,44,29,14,7,Moderate
+2025-04-16,Breakfast,Fruit Bowl,203,2,76,24,2,4,Moderate
+2025-04-17,Dinner,Paneer,222,22,61,15,3,12,Healthy
+2025-04-17,Dinner,Milk,286,19,10,28,22,11,Unhealthy
+2025-04-18,Snack,Paneer,221,37,76,20,29,14,Unhealthy
+2025-04-18,Snack,Rice,360,25,18,27,5,7,Moderate
+2025-04-18,Snack,Milk,162,4,46,20,8,12,Healthy
+2025-04-19,Lunch,Milk,454,20,51,15,23,6,Healthy
+2025-04-19,Breakfast,Fruit Bowl,544,31,13,34,23,4,Healthy
+2025-04-19,Lunch,Chicken Curry,413,31,45,5,26,4,Moderate
+2025-04-19,Breakfast,Paneer,206,17,66,31,11,3,Unhealthy
+2025-04-20,Lunch,Chicken Curry,404,21,71,34,20,13,Healthy
+2025-04-20,Breakfast,Milk,403,36,69,9,12,7,Unhealthy
+2025-04-20,Snack,Paneer,253,16,23,27,19,13,Moderate
+2025-04-21,Dinner,Paneer,584,30,55,5,22,7,Moderate
+2025-04-21,Snack,Salad,571,3,38,28,22,9,Healthy
+2025-04-22,Lunch,Paneer,293,26,21,13,5,10,Unhealthy
+2025-04-22,Snack,Salad,459,2,61,30,12,1,Unhealthy
+2025-04-22,Snack,Salad,511,21,60,14,28,6,Healthy
+2025-04-22,Lunch,Rice,269,9,47,21,27,1,Moderate
+2025-04-23,Breakfast,Chicken Curry,397,10,41,18,23,5,Unhealthy
+2025-04-23,Dinner,Dal,262,14,68,12,13,3,Unhealthy
+2025-04-23,Breakfast,Rice,247,20,76,9,28,5,Healthy
+2025-04-23,Snack,Rice,380,27,73,9,24,11,Moderate
+2025-04-24,Lunch,Dal,403,31,37,19,4,3,Unhealthy
+2025-04-24,Snack,Eggs,163,34,19,3,28,9,Moderate
+2025-04-24,Lunch,Salad,345,15,55,10,24,7,Unhealthy
+2025-04-24,Snack,Paneer,593,30,42,4,15,14,Moderate
+2025-04-25,Breakfast,Salad,314,2,59,16,25,5,Healthy
+2025-04-25,Lunch,Rice,206,32,29,24,23,9,Moderate
+2025-04-26,Lunch,Roti,499,36,49,10,20,6,Moderate
+2025-04-26,Lunch,Roti,530,4,32,16,8,7,Unhealthy
+2025-04-27,Dinner,Milk,197,37,37,25,6,2,Healthy
+2025-04-27,Dinner,Fruit Bowl,500,2,69,21,18,13,Moderate
+2025-04-27,Snack,Roti,498,32,15,6,7,2,Moderate
+2025-04-28,Dinner,Fruit Bowl,513,6,34,25,26,3,Unhealthy
+2025-04-28,Breakfast,Fruit Bowl,234,28,55,7,26,13,Unhealthy
+2025-04-29,Lunch,Junk Food,564,38,46,24,5,4,Moderate
+2025-04-29,Snack,Milk,448,30,63,18,12,6,Healthy
+2025-04-30,Breakfast,Rice,444,23,57,24,18,3,Moderate
+2025-04-30,Lunch,Salad,576,22,50,22,11,11,Unhealthy
